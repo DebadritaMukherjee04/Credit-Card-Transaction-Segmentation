@@ -1,7 +1,6 @@
-scikit-Learn
 streamlit
 pandas
+scikit-learn
 plotly
 matplotlib
 seaborn
-pickle
